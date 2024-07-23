@@ -1,6 +1,6 @@
 {
     "name": "bn-types",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Types for Bunny, a mod for Discord's mobile apps",
     "author": {
         "name": "pylixonly",
@@ -12,6 +12,7 @@
         "discord"
     ],
     "license": "BSD-3-Clause",
+    "scripts": {},
     "devDependencies": {
         "@uwu/treetype": "^1.1.0",
         "dts-bundle-generator": "^9.5.1",
