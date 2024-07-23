@@ -22,7 +22,7 @@ jobs:
             
             - name: Install pnpm and dependencies
               run: |
-                run i -g pnpm
+                npm i -g pnpm
                 pnpm install
                 cd ./repo
                 pnpm install
