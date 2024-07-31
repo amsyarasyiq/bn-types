@@ -13,12 +13,17 @@
 		storage
 		assets
 		patcher
+		debug
+		settings
 	}
 	plugins
 	themes
 	fonts
 	metro {
 		common
+		factories
+		filters
+		lazy
 	}
 	ui {
 		components
@@ -33,7 +38,5 @@
 		types
 		logger
 	}
-	debug
-	settings
 	plugin
 }
