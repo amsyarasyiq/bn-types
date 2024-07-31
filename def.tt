@@ -14,10 +14,9 @@
 		assets
 		patcher
 	}
-	managers {
-		themes
-	}
 	plugins
+	themes
+	fonts
 	metro {
 		common
 	}
@@ -36,4 +35,5 @@
 	}
 	debug
 	settings
+	plugins
 }
